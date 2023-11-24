@@ -9,11 +9,12 @@
 
 # Test with Actions
 
-_Create workflows that enable you to use Continuous Integration (CI) for your projects._
+Create workflows that enable you to use Continuous Integration (CI) for your projects.
 
 </header>
 
 <!--
+
   <<< Author notes: Step 3 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
@@ -53,6 +54,7 @@ To upload artifacts to the artifact storage, we can use an action built by GitHu
 
 1. Commit your change to this branch.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/actions) will automatically update to the next step.
+2. 
 
 Like the upload action to send artifacts to the storage, you can use the download action to download these previously uploaded artifacts from the `build` job: [`actions/download-artifact`](https://github.com/actions/download-artifact). For brevity, we'll skip that step for this course.
 
@@ -67,6 +69,6 @@ Like the upload action to send artifacts to the storage, you can use the downloa
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/test-with-actions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/codeofconduct/codeofconduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
