@@ -9,7 +9,7 @@
 
 # Test with Actions
 
-_Create workflows that enable you to use Continuous Integration (CI) for your projects._
+Create workflows that enable you to use Continuous Integration (CI) for your projects.
 
 </header>
 
@@ -21,7 +21,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 
 ## Step 2: Fix the test
 
-_Great job adding the templated workflow! :tada:_
+Great job adding the templated workflow! :tada:
 
 Adding that file to this branch is enough for GitHub Actions to begin running CI on your repository.
 
@@ -31,9 +31,9 @@ When a GitHub Actions workflow is running, you should see some checks in progres
 
 You can follow along as GitHub Actions runs your job by going to the **Actions** tab or by clicking "Details" in the merge box below.
 
-When the tests finish, you'll see a red X :x: or a green check mark :heavy_check_mark: in the merge box. At that point, you can access the logs for the build job and its associated steps.
+When the tests finish, you'll see a red X :x: or a green check mark :heavycheckmark: in the merge box. At that point, you can access the logs for the build job and its associated steps.
 
-_By looking at the logs, can you identify which tests failed?_ To find it, go to one of the failed builds and scroll through the log. Look for a section that lists all the unit tests. We're looking for the name of the test with an "x".
+By looking at the logs, can you identify which tests failed? To find it, go to one of the failed builds and scroll through the log. Look for a section that lists all the unit tests. We're looking for the name of the test with an "x".
 
 <img alt="screenshot of a sample build log with the names of the tests blurred out" src=https://user-images.githubusercontent.com/16547949/65922013-e740a200-e3b1-11e9-8151-faf52c30201e.png width=400 />
 
@@ -63,6 +63,6 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/test-with-actions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/codeofconduct/codeofconduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
